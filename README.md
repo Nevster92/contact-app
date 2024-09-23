@@ -20,7 +20,7 @@ Change this line:\
 `'spring.datasource.url=/database/contacts.db'`
 
 To this line:\
-`'spring.datasource.url=jdbc:sqlite:[your system]/database/contacts.db'`
+`'spring.datasource.url=jdbc:sqlite:[your system]/contact-app/database/contacts.db'`
 
 After **Clean and Build** the project with **Maven**.
 
