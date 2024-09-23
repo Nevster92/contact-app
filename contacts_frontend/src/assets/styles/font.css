@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Glysa';
+  src: url('@/assets/fonts/Glysa.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LexendDeca-VariableFont_wght';
+  src: url('@/assets/fonts/LexendDeca-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

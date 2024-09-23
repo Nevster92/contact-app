@@ -1,0 +1,7 @@
+CREATE TABLE contacts (
+id INTEGER PRIMARY KEY,
+name TEXT,
+phone_number TEXT,
+email TEXT,
+picture BLOB);
+
